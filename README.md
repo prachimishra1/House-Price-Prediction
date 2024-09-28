@@ -9,7 +9,8 @@ This project is ideal for anyone interested in data science, real estate, or pre
 
 
 >Table of Contents:
-  .Features
+
+ .Features
 
   .Modeling
   
